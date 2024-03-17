@@ -5,7 +5,7 @@ const experiments = [[
         title: 'Nuxt Editable',
         date: '2024',
         description: 'Nuxt Editable is a embeddable editor UI for Nuxt.js. It allows you to create collection schemas and connect them with your own database, and provide your clients with an easy to use UI to manage site content.',
-        link: 'https://weeknight.recipes',
+        link: 'https://github.com/NvdB31/nuxt-editable/tree/main',
         images: ['https://github.com/NvdB31/nuxt-editable/raw/main/.github/assets/banner.svg'],
         badges: ['Built prototype', 'Open-source', 'Published'],
     },

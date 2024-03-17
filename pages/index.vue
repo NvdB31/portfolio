@@ -21,7 +21,10 @@ const currentAge = ageInYears;
                             <li><UIcon name="i-devicon-nodejs"/> Node.js API development</li>
                             <li>📐 UI Design</li>
                         </ul>
-                        <UButton color="gray" size="lg" to="mailto:nickvandenberg31@gmail.com?subject=Inquiry software engineering" class="no-underline">Contact me</UButton>
+                        <div class="flex gap-2">
+                            <UButton color="black" size="lg" to="https://calendly.com/nickvandenberg31/intro" class="no-underline" target="_blank">Schedule a call</UButton>
+                            <UButton color="gray" size="lg" to="mailto:nickvandenberg31@gmail.com?subject=Inquiry software engineering" class="no-underline">Contact me</UButton>
+                        </div>
                     </div>
                 </div>
             </article>
