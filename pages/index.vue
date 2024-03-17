@@ -18,7 +18,7 @@ const currentAge = ageInYears;
                         <ul class="mt-0">
                             <li>👨‍💻 Software development</li>
                             <li><UIcon name="i-devicon-vuejs"/> Vue / Nuxt.js consulting</li>
-                            <li><UIcon name="i-devicon-nodejs"/> Node.js API development</li>
+                            <li><UIcon name="i-devicon-react"/> React / Next.js consulting</li>
                             <li>📐 UI Design</li>
                         </ul>
                         <div class="flex gap-2">
