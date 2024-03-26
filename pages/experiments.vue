@@ -15,8 +15,8 @@ const experiments = [[
         description: 'A free site that automatically scrapes the latest supermarket promotions from the major Dutch supermarkets. Built post-pandemic to alleviate the pain of increasing costs of living.',
         link: 'https://aanbiedingenradar.nl',
         images: [
-            '/experiments/aanbiedingenradar-1.png',
-            '/experiments/aanbiedingenradar-2.png',
+            '/experiments/aanbiedingenradar-1.webp',
+            '/experiments/aanbiedingenradar-2.webp',
         ],
         badges: ['Website', 'Free', 'Published']
     },
@@ -34,7 +34,7 @@ const experiments = [[
         title: 'Weeknight Recipes',
         date: '2024',
             description: 'An iOS app that suggests an AI-generated recipe for a simple weeknight dinner. With filterable options for cuisine, max prep. time and dietary restrictions. The recipe images are generated with Stable Diffusion.',
-        images: ['/experiments/weeknight-recipes.png'],
+        images: ['/experiments/weeknight-recipes.webp'],
         link: 'https://weeknight.recipes',
         badges: ['Built prototype'],
     },
@@ -43,9 +43,17 @@ const experiments = [[
         date: '2023',
         description: 'A productized service business that delivers complete, branded UI component kits for a fixed monthly fee. With subscriptions starting from €2999 per month.',
         link: 'https://ui-pass.com',
-        images: ['/experiments/uipass.png'],
+        images: ['/experiments/uipass.webp'],
         badges: ['Services', 'UX/UI']
     },
+        {
+            title: 'Preflight UI',
+            date: '2022',
+            description: 'An concept for a modular UI kit of components that could be flexibly adapted to many different styles, for them to work with any brand identity.',
+            link: 'https://preflightui.com',
+            images: ['/experiments/preflight-ui.webp', '/experiments/preflight-ui-2.webp'],
+            badges: ['SaaS', 'UX/UI', 'Discarded']
+        },
     ]
 ]
 
